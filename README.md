@@ -4,11 +4,12 @@ lxcfs增强容器隔离top查看容器资源
 https://github.com/ymping/lxcfs-admission-webhook
 
 改造点： 
-1 证书验证使用cert-manager
 
-2 节点使用ubuntu 18.04
+1) 证书验证使用cert-manager
 
-3 根据实际情况 修改目录和挂载文件
+2) 节点使用ubuntu 18.04
+
+3) 根据实际情况 修改目录和挂载文件
 
 1、部署前检查API接口是否支持
 
